@@ -1,2 +1,7 @@
-# demo-armonident-odontologia-atencion-con-turn
-Demo web para ARMONIDENT Odontología (Atención con turno) — diseñada por eterlab.
+# ARMONIDENT Odontología (Atención con turno)
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
